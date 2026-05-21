@@ -29,11 +29,4 @@ The repository is organized into two main projects:
 ---
 
 
----
-
----
-
-
----
-
 Thank you for reviewing my Intern2Grow project submissions.
